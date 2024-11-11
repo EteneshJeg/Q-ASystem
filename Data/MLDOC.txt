@@ -1,0 +1,3 @@
+
+Machine Learning:
+Machine learning is a branch of artificial intelligence (AI) that enables computers to learn from data and improve their performance over time without being explicitly programmed. By analyzing large sets of data, machine learning algorithms can identify patterns, make predictions, and make decisions. This technology powers a wide range of applications, from recommendation systems to self-driving cars, transforming the way we interact with technology.

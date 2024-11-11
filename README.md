@@ -3,7 +3,7 @@ This project showcases a Question Answering (QA) system built using LlamaIndex a
 
 Overview
 Goal: Develop a QA system that processes questions and retrieves relevant answers.
-Tech Stack: Python, LlamaIndex, Google Gemini embeddings, LangChain, Git for version control.
+Tech Stack: Python, LlamaIndex, Google Gemini embeddings, Git for version control.
 
 Key Components:
 Virtual environment setup (Anaconda/pip) and modular project structure.
